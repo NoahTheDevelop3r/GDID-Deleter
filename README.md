@@ -45,7 +45,7 @@ CleanGDID follows a simple five-stage process.
 
 ```text
              ┌──────────────────┐
-             │   Start CleanGDID │
+             │  Start CleanGDID │
              └────────┬─────────┘
                       ↓
              ┌──────────────────┐

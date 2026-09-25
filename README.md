@@ -1,6 +1,6 @@
-# CleanGDID
-
 ![CleanGDID banner](https://i.ibb.co/SDkC3DPq/cleangdid.jpg)
+
+# CleanGDID
 
 **A simple Windows 10 & 11 privacy cleanup utility focused on GDID artifacts and supported Windows privacy settings.**
 
